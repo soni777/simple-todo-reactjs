@@ -1,0 +1,25 @@
+.app-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 30px;
+  font-family: 'Roboto';
+}
+
+.card-container {
+  background-color: #ffffff;
+  border: solid 1px transparent;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.list-container {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.heading {
+  color: #ff8542;
+}
